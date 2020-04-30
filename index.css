@@ -1,0 +1,19 @@
+ body{
+    text-align: center;
+    text-transform: uppercase;
+    background-image: linear-gradient(to right,red,black);
+}
+
+.done{
+    text-decoration: line-through;
+}
+
+.deleteButton {
+    background-color: #a0829b;
+    color: #fff;
+    border-radius: 30px;
+    margin: 20px;
+  }
+  ul{
+      list-style: none;
+  }
