@@ -7,7 +7,9 @@
 .done{
     text-decoration: line-through;
 }
-
+.p{
+ text-transform:uppercase;
+}
 .deleteButton {
     background-color: #a0829b;
     color: #fff;
